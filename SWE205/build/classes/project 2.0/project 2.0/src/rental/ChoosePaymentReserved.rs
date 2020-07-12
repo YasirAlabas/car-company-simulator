@@ -1,0 +1,6 @@
+rental.ChoosePaymentReserved$2
+rental.ChoosePaymentReserved$1
+rental.ChoosePaymentReserved$5
+rental.ChoosePaymentReserved$4
+rental.ChoosePaymentReserved$3
+rental.ChoosePaymentReserved
